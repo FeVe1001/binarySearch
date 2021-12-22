@@ -1,0 +1,2 @@
+# binarySearch
+Written in python 
